@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1538854450 source:c:\users\user\desktop\fakultet\uvod u programiranje\vezbanje\normandydefender1944\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<graphics.h>
+	<vector>
+	<string.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+
+1538891241 source:c:\users\user\desktop\fakultet\uvod u programiranje\vezbanje\normandydefender1944\resources.rc
+
